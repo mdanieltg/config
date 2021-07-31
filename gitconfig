@@ -1,0 +1,28 @@
+[user]
+	name = Daniel Medrano Huerta
+	email = daniel@quicktortoise.com
+[push]
+	default = simple
+[core]
+	editor = vim
+	autocrlf = input
+[alias]
+	br = branch
+	ca = commit -a
+	caa = commit --amend
+	cam = commit -am
+	ch = checkout
+	cp = cherry-pick
+	cpa = cherry-pick --abort
+	cpc = cherry-pick --continue
+	cm = commit -m
+	co = commit
+	lg = log --oneline
+	lgg = log --oneline --graph --decorate
+	lga = log --oneline --graph --all --decorate
+	ma = merge --abort
+	mc = merge --continue
+	st = status -s
+	sts = status
+[init]
+	defaultBranch = main

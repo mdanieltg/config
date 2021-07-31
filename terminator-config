@@ -1,0 +1,26 @@
+[profiles]
+  [[default]]
+    background_color = "#282c34"
+    background_darkness = 0.92
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    font = MesloLGS NF 9
+    foreground_color = "#abb2bf"
+    palette = "#3f4451:#e06c75:#98c379:#d19a66:#61afef:#c678dd:#56b6c2:#e6e6e6:#4f5666:#ff7b86:#b1e18b:#efb074:#67cdff:#e48bff:#63d4e0:#ffffff"
+    use_system_font = False
+    copy_on_selection = True
+[layouts]
+  [[default]]
+    [[[child0]]]
+      type = Window
+      parent = ""
+      order = 0
+      maximised = False
+      fullscreen = False
+      size = 650, 403
+    [[[terminal1]]]
+      type = Terminal
+      parent = child0
+      order = 0
+      profile = default
+      uuid = e8b7bb6a-603d-4388-831b-94779e357237
