@@ -12,7 +12,7 @@
 	],
 	"show_encoding": true,
 	"show_line_endings": true,
-	"theme": "ayu-mirage.sublime-theme",
+	"theme": "Default Dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
 }
