@@ -1,15 +1,21 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Night Owl/Night Owl.sublime-color-scheme",
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 1,
+	"caret_style": "smooth",
+	"color_scheme": "auto",
+	"dark_color_scheme": "Night Owl.sublime-color-scheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "JetBrains Mono",
-	"font_size": 9,
+	"font_size": 10,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"CSS",
 		"Vintage"
 	],
+	"light_color_scheme": "Night Owl - Light.sublime-color-scheme",
 	"show_encoding": true,
 	"show_line_endings": true,
 	"theme": "Default Dark.sublime-theme",
